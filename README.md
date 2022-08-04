@@ -13,3 +13,4 @@ Simply search for the title, instantly get a summary of the parental guide, and 
 Honestly? I just wanted to learn a few skills. And this seemed like a good enough idea to try them out :P
 
 ### How to use it?
+Make sure to have Python, Redis, and Docker installed on your system.
