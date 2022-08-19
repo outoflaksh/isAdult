@@ -14,3 +14,5 @@ Honestly? I just wanted to learn a few skills. And this seemed like a good enoug
 
 ### How to use it?
 Make sure to have Python, Redis, and Docker installed on your system.
+
+Clone the repo, install the dependencies, and then start the FastAPI server 🎈
