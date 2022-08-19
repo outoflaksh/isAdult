@@ -16,3 +16,5 @@ Honestly? I just wanted to learn a few skills. And this seemed like a good enoug
 Make sure to have Python, Redis, and Docker installed on your system.
 
 Clone the repo, install the dependencies, and then start the FastAPI server 🎈
+
+Oh, and make sure to get your TMDB API key and add it to a `.env` file at the root directory under the key `TMDB_API_KEY`
